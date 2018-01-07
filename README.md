@@ -1,5 +1,5 @@
 # Misc. Notes
-*The StepUp circuit is only needed for the blower/servo circuits.
+* The StepUp circuit is only needed for the blower/servo circuits.
 
 # BOM Differences
 v1 > v2
