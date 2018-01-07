@@ -1,1 +1,8 @@
-BOM Differences
+## Misc. Notes
+* The StepUp circuit is only needed for the blower/servo circuits.
+
+## BOM Differences
+v1 > v2
+
+### StepUp
+LM2577T-ADJ > MT3608
